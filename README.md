@@ -1,1 +1,1 @@
-# semana07_actividad_dynamodb
+# semana09_actividad_dynamodb
