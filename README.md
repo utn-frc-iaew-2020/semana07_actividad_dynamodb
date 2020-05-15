@@ -1,1 +1,1 @@
-# semana07_actividad_dynamodb
+# semana07_actividad_petstore
